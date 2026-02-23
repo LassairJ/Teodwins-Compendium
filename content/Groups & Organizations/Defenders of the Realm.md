@@ -1,1 +1,0 @@
-Famous, near-celebrity-status Royal Company 
