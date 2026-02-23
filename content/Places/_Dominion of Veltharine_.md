@@ -1,0 +1,1 @@
+Elvish "Polycentric" state, where loyalty of citizens lies with local cities rather than central government
