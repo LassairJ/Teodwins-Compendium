@@ -3,11 +3,14 @@ Quest Start
 A mine out west near [[Vilhan]] breached into a pocket of the Underdark, and creatures are coming up from within and killing and stealing. One monster in particular is our goal, the largest one.
 
 Rewards
-10gp to start, King's favor when we complete
+10gp upon start
+King's favor when we complete
 
 Notes
-Found and killed 2 Ankhegs on the way that were eating a boar
+Found and killed 2 [[Ankheg]]s on the way that were eating a boar
 Whatever the [[Big Fucking Thing (BFT)]] is, it eats humans and orcs
+
+Spent 1gp each at Shepard's Crook Inn
 
 Found cave of [[Chain Ogre]] and two [[Carrion Crawler]] things, found:
 140gp (split between party, 23 each)
