@@ -6,7 +6,22 @@ export const sharedPageComponents: SharedLayout = {
   head: Component.Head(),
   header: [],
   afterBody: [
-    Component.Comments(),
+    Component.Comments({
+      provider: 'giscus',
+      options: {
+        repo: 'LassairJ/Teodwins-Compendium',
+        repoId: 'R_kgDORXM1uw',
+        category: 'Announcements',
+        categoryId: 'DIC_kwDORXM1u84C3FXV',
+        themeUrl: "https://teodwin.lassair.me/static/giscus",
+        lightTheme: "light",
+        darkTheme: "dark",
+        mapping: "pathname",
+        strict: true,
+        reactionsEnabled: true,
+        inputPosition: "bottom",
+      }
+    }),
   ],
   footer: Component.Footer({
     links: {
