@@ -1,0 +1,1 @@
+Own the mines near [[Vilhan]], as well as the town itself
