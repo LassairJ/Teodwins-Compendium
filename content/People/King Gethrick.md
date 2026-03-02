@@ -1,2 +1,2 @@
 Old
-King of [[_Kingdom of Rosinar_]]
+King of [[Kingdom of Rosinar]]
