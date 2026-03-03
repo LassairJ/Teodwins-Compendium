@@ -1,0 +1,35 @@
+- Clothing
+	- Headwear
+		- Heavy canvas or rough-wool cowl/Hood
+		- Worn pulled halfway back for peripheral vision
+	- Tunic
+		- Oversized linen or rough cotton button down
+		- Cut collar and cuffs off, sew/pin front to remove buttons
+		- Dye in bucket of black/green tea
+	- Trousers
+		- Cotton scrub pants in dark brown/green
+		- Baggy with drawstring waist
+	- Shoes
+- Weapons & Gear
+	- Quiver
+		- Semi-rigid leather back quiver
+		- Over right shoulder, angled as to not hit head
+		- Two sturdy leather loops on outside to hold bow
+	- Bow
+		- Wooden takedown recurve
+		- Stained matte green/brown with RC car paint (flexible)
+		- Covered in ripped cloth strips (maybe dyed with shirt)
+		- String silencers depending on peace-bond rules of strung bow
+	- Shortsword
+		- TBD
+- Armor & Belts
+	- Chest harness
+		- Dark brown leather strap connecting quiver baldric to upper pauldron piece
+	- Waist belt
+		- Wide, leather
+		- Holds short sword & pouch
+	- Left Pauldron
+		- 6mm high-density EVA foam
+		- Little bits of craft moss?
+![[Pasted image 20260302203858.png]]
+		- ^ but green
