@@ -23,8 +23,8 @@ const config: QuartzConfig = {
       fontOrigin: "googleFonts",
       cdnCaching: true,
       typography: {
-        header: "Schibsted Grotesk",
-        body: "Source Sans Pro",
+        header: "The Girl Next Door",
+        body: "Just Me Again Down Here",
         code: "IBM Plex Mono",
       },
       colors: {

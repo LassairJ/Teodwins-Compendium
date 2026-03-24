@@ -31,5 +31,5 @@
 	- Left Pauldron
 		- 6mm high-density EVA foam
 		- Little bits of craft moss?
-![[Pasted image 20260302203858.png]]
+![[Pauldron.png]]
 		- ^ but green
