@@ -23,8 +23,15 @@ const config: QuartzConfig = {
       fontOrigin: "googleFonts",
       cdnCaching: true,
       typography: {
-        header: "The Girl Next Door",
-        body: "Just Me Again Down Here",
+        header: {
+          name: "The Girl Next Door",
+          weights: [400],
+        },
+        body: {
+          name: "Just Me Again Down Here",
+          weights: [400],
+          includeItalic: false,
+        },
         code: "IBM Plex Mono",
       },
       colors: {
