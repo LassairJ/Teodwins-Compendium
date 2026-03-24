@@ -31,6 +31,7 @@ const config: QuartzConfig = {
           name: "Caveat",
           weights: [400],
         },
+        title: "Caveat",
         code: "IBM Plex Mono",
       },
       colors: {
