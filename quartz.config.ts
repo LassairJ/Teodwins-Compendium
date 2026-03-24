@@ -23,15 +23,8 @@ const config: QuartzConfig = {
       fontOrigin: "googleFonts",
       cdnCaching: true,
       typography: {
-        header: {
-          name: "Caveat",
-          weights: [400],
-        },
-        body: {
-          name: "Caveat",
-          weights: [400],
-        },
-        title: "Caveat",
+        header: "Schibsted Grotesk",
+        body: "Source Sans Pro",
         code: "IBM Plex Mono",
       },
       colors: {
