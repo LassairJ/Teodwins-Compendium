@@ -24,14 +24,13 @@ const config: QuartzConfig = {
       cdnCaching: true,
       typography: {
         header: {
-          name: "The Girl Next Door",
+          name: "Caveat",
           weights: [400],
         },
         body: {
-          name: "The Girl Next Door",
+          name: "Caveat",
           weights: [400],
         },
-        title: "The Girl Next Door",
         code: "IBM Plex Mono",
       },
       colors: {
