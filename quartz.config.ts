@@ -31,6 +31,7 @@ const config: QuartzConfig = {
           name: "The Girl Next Door",
           weights: [400],
         },
+        title: "The Girl Next Door",
         code: "IBM Plex Mono",
       },
       colors: {
