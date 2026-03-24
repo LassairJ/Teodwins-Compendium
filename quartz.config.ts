@@ -30,7 +30,6 @@ const config: QuartzConfig = {
         body: {
           name: "The Girl Next Door",
           weights: [400],
-          includeItalic: false,
         },
         code: "IBM Plex Mono",
       },
