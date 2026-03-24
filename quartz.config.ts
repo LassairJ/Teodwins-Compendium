@@ -28,7 +28,7 @@ const config: QuartzConfig = {
           weights: [400],
         },
         body: {
-          name: "Just Me Again Down Here",
+          name: "The Girl Next Door",
           weights: [400],
           includeItalic: false,
         },
