@@ -9,6 +9,12 @@ Upon encounter, killed all orcs but not our group
 Features:
 Claws
 Mandibles, with smaller 'feeder' mouths
-Large, yellow (hypnotic?) eyes
+Large, yellow (red?) (hypnotic?) eyes
 Large and squat body
 Natural hard shell, likely resistant/immune to non-magical attacks
+Large claws
+
+AC 18?
+
+Abilities:
+Charisma save, or will take an action decided by a d6 as they are mind-controlled
